@@ -37,7 +37,7 @@ git clone https://github.com/ConsigueVentas-Team/CRM_Frontend.git
 ```
 
 ```bash
-cd ERP_Frontend
+cd CRM_Frontend
 ```
 
 2. Instala las dependencias con `npm install`.
@@ -54,4 +54,4 @@ npm run dev
 
 4. Abre tu navegador y visita `http://localhost:3000`.
 
-¡Listo! Ahora puedes comenzar a trabajar en el ERP Frontend.
+¡Listo! Ahora puedes comenzar a trabajar en el CRM Frontend.
